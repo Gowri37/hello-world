@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register</h1>
+    <h1>New user Register through automation</h1>
     <p>Please fill in this form to create an account with Valaxy Technologies.</p>
     <p>Deploying on container using the Jenkins-ansible integration</p>
     <hr>
