@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New user Register through automation</h1>
     <p>Please fill in this form to create an account with Valaxy Technologies.</p>
-    <p>Deploying on container using the Jenkins-ansible integration</p>
+    <p>Deploying on container using the Jenkins-ansible integration and ansible playbooks</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
